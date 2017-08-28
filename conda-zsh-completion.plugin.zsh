@@ -1,0 +1,2 @@
+fpath+="$PWD"
+compinit conda
